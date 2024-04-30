@@ -9,7 +9,7 @@ import {
     RouterProvider,
 } from "react-router-dom";
 import Single from './single';
-import Basic from './layout/basic';
+import Basic from './layout/basic.js';
 
 const router = createBrowserRouter([
     {
