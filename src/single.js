@@ -1,6 +1,6 @@
 const Single = () => {
     return (<>
-        <h1>Pagina simple</h1>
+        <h1>VAMOS POR MAS EN EL MUNDO DE LA TECNOLOGIA MOVIL :)</h1>
     </>);
 }
 

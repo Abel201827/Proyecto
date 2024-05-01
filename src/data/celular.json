@@ -1,0 +1,26 @@
+[
+    {
+        "name": "SAMSUNG",
+        "slug": "celular-1",
+        "description": "Samsung S24 Ultra",
+        "picture": "https://media.croma.com/image/upload/v1705640288/Croma%20Assets/Communication/Mobiles/Images/303838_oqpio4.png"
+    },
+    {
+        "name": "XIAOMI",
+        "slug": "celular-2",
+        "description": "Xiaomi 13 Pro",
+        "picture": "https://i.blogs.es/d2ef5f/pms_1677134445.33587147/original.png"
+    },
+    {
+        "name": "IPHONE 15 PRO MAX",
+        "slug": "celular-3",
+        "description": "Iphone 15 Pro Max",
+        "picture": "https://weworktechnologyeirl.com/cdn/shop/files/1_da2c8b72-aef2-4c1d-ae33-92f54c039f7d.png?v=1695755612"
+    },
+    {
+        "name": "HONOR MAGIC6 PRO",
+        "slug": "celular-4",
+        "description": "honor magic6 pro",
+        "picture": "https://www.livokoua.com.mx/cdn/shop/files/PRODUCTOS-2024-01-21T093735.773.png?v=1705852927"
+    }
+]

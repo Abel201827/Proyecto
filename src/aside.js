@@ -1,21 +1,24 @@
 const Aside = () => {
     return <aside>
         <form>
-            <div class="mb-3">
-                <label for="exampleInputEmail1" class="form-label">Email address</label>
-                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" />
-                <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
-            </div>
-            <div class="mb-3">
-                <label for="exampleInputPassword1" class="form-label">Password</label>
-                <input type="password" class="form-control" id="exampleInputPassword1" />
-            </div>
-            <div class="mb-3 form-check">
-                <input type="checkbox" class="form-check-input" id="exampleCheck1" />
-                <label class="form-check-label" for="exampleCheck1">Check me out</label>
-            </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+                <div className="mb-3">
+                    <label htmlFor="nombre" className="form-label">Nombre</label>
+                    <input type="text" className="form-control" id="nombre" />
+                </div>
+                <div className="mb-3">
+                    <label htmlFor="celular" className="form-label">N° de celular</label>
+                    <input type="text" className="form-control" id="celular" />
+                </div>
+                <div className="mb-3">
+                    <label htmlFor="modelo" className="form-label">Modelo de celular</label>
+                    <input type="text" className="form-control" id="modelo" />
+                </div>
+                <div className="mb-3">
+                    <label htmlFor="comentarios" className="form-label">Comentarios/Experiencias</label>
+                    <textarea className="form-control" id="comentarios" rows="3"></textarea>
+                </div>
+                <button type="submit" className="btn btn-primary">Enviar</button>
+            </form>
     </aside>;
 }
 
